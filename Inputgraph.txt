@@ -1,0 +1,33 @@
+8
+0
+Apple
+2;
+computer, internet, device, ipod, ipod nano,
+1
+New York Times
+0;3;
+education, news, internet,
+2
+Intel
+0;5;
+computer, internet, 
+3
+Wikipedia
+2;4;5;0;
+university, education, computer, internet, news, power,
+4
+Rutgers
+5;
+university, education,
+5
+Microsoft
+2;
+power, computer, internet,
+6
+Targum
+3;4;5;
+news, internet, university,
+7
+Star-Ledger
+1;4;
+power, news,
